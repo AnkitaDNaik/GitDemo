@@ -7,6 +7,7 @@ public class APITest {
 	public void Api()
 	{
 	System.out.println("API");
-	
+	System.out.println("API1");
+	System.out.println("API2");
 	}
 }
