@@ -8,6 +8,7 @@ public class SeleniumTest {
 public void SCR()
 {
 System.out.println("Hat");
+System.out.println("rat");
 
 }
 
